@@ -1,6 +1,0 @@
-Metadata-Version: 2.4
-Name: debugx
-Version: 0.1.0
-Summary: Smart debugging for Python developers
-Author: Vivek Verma
-Requires-Dist: rich
