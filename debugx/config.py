@@ -1,0 +1,2 @@
+DEBUG = True
+MAX_ITEMS = 10
